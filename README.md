@@ -23,24 +23,10 @@
   + IDE : Eclipse
   + Java
   + Apache Tomcat ver 9.0
+  + JSP / Servlet
 
 
-##  메인 기능 화면
 
-#### 1.메인 화면
-
-![image](https://user-images.githubusercontent.com/75718761/125788426-97a3362e-f8df-4ec0-a6e0-fb23d5e614c6.png)
-            
-                                                카페별 단기 이벤트를 달력으로 제공
-                                                로그인 시 선호 카페 정보만 제공
-
-#### 2.이용 정보 화면
-카페별 이용 방법 |  카페별 세부 이용 정보
-:-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/75718761/125788815-3c28a892-8564-4f57-acd1-09adeaa8b087.png)|![image](https://user-images.githubusercontent.com/75718761/125788875-01ed53d9-86f8-44c5-919f-1834942e6889.png)
-카페별 주문 방법 및 추천 메뉴| 카페별 멤버쉽 및 제휴할인등 정보 게시판 제공
-#### 3.오늘의 카페 화면
-![image](https://user-images.githubusercontent.com/75718761/125789484-7fe367e6-1943-4662-a0ea-6ec8a1befc08.png)
 
     
     
